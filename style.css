@@ -1,0 +1,21 @@
+body{
+text-align: center;
+align-content: center;    
+}
+#APPS{
+    background-color: rgb(223, 130, 9);
+margin: 10px;
+}
+#GAMES{
+    background-color: rgb(27, 196, 159);
+margin: 10px;
+}
+#CHAT_BOTS{
+    background-color: antiquewhite;
+margin: 10px;
+}
+.title{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: xx-large;
+    background-color: beige;
+}
